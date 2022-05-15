@@ -34,5 +34,3 @@ while cycle_continuation == 'yes':
     else:
       print(f"Your request cannot be processed")
     cycle_continuation = input("Would you like to continue playing? \'yes'\ or \'no'\: ").lower()
-
-
